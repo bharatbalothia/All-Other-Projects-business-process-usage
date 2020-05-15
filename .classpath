@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/apps/SI_JARs/asset.jar"/>
+	<classpathentry kind="lib" path="C:/apps/SI_JARs/b2b_base.jar"/>
+	<classpathentry kind="lib" path="C:/apps/SI_JARs/bootstrapper.jar"/>
+	<classpathentry kind="lib" path="C:/apps/SI_JARs/gis.jar"/>
+	<classpathentry kind="lib" path="C:/apps/SI_JARs/gisdavclient.jar"/>
+	<classpathentry kind="lib" path="C:/apps/SI_JARs/gisdavserver.jar"/>
+	<classpathentry kind="lib" path="C:/apps/SI_JARs/install_foundation.jar"/>
+	<classpathentry kind="lib" path="C:/apps/SI_JARs/mailbox.jar"/>
+	<classpathentry kind="lib" path="C:/apps/SI_JARs/platform_afc.jar"/>
+	<classpathentry kind="lib" path="C:/apps/SI_JARs/platform_asi.jar"/>
+	<classpathentry kind="lib" path="C:/apps/SI_JARs/platform_baseutils.jar"/>
+	<classpathentry kind="lib" path="C:/apps/SI_JARs/platform_ifcbase.jar"/>
+	<classpathentry kind="lib" path="C:/apps/SI_JARs/platform_security.jar"/>
+	<classpathentry kind="lib" path="C:/apps/SI_JARs/platform_services.jar"/>
+	<classpathentry kind="lib" path="C:/apps/SI_JARs/serviceinstallbootstrapper.jar"/>
+	<classpathentry kind="lib" path="C:/apps/SI_JARs/servicepreinstall.jar"/>
+	<classpathentry kind="lib" path="C:/apps/SI_JARs/standards.jar"/>
+	<classpathentry kind="lib" path="C:/apps/SI_JARs/studio.jar"/>
+	<classpathentry kind="lib" path="C:/apps/SI_JARs/platform_ifcui.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
